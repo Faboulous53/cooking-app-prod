@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b731403.css",
+    "main.js": "/static/js/main.801600e7.js",
+    "static/media/Itim-Regular.ttf": "/static/media/Itim-Regular.38b1e6579a4ae98f4318.ttf",
+    "static/media/vegetables-g3c726d7bf_640.jpg": "/static/media/vegetables-g3c726d7bf_640.259d003da53f40ac7355.jpg",
+    "index.html": "/index.html",
+    "main.0b731403.css.map": "/static/css/main.0b731403.css.map",
+    "main.801600e7.js.map": "/static/js/main.801600e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b731403.css",
+    "static/js/main.801600e7.js"
+  ]
+}
